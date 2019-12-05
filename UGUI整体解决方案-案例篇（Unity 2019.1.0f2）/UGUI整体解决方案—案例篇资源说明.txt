@@ -1,0 +1,6 @@
+工程文件在资料里有个包
+ 或者也可以在github拷贝，地址：https://github.com/BlueMonk1107/UGUISolution
+工程的化，推荐用git拷贝，有的时候，有同学报bug，我会去修改，这样用git就能获取最新的代码
+
+ExcelDataReader地址：https://github.com/ExcelDataReader/ExcelDataReader
+图表插件地址：https://github.com/monitor1394/unity-ugui-XCharts
