@@ -1,0 +1,7 @@
+工程文件在资料里有个包
+ 或者也可以在github拷贝，地址：https://github.com/BlueMonk1107/UGUISolution
+获取工程，推荐用git拷贝，有的时候，有同学报bug，我会去修改，这样用git就能获取最新的代码
+
+图集分块算法地址：https://github.com/DaVikingCode/UnityRuntimeSpriteSheetsGenerator
+
+texturepacker官网：https://www.codeandweb.com/texturepacker
