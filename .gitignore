@@ -4,3 +4,15 @@
 *.meta
 /新建文件夹
 /UGUI整体解决方案-优化篇（Unity 2019.1.0f2）/UGUIOptimization/Library
+/UGUI整体解决方案-优化篇（Unity 2019.1.0f2）/UGUIOptimization/Temp
+/UGUI整体解决方案-优化篇（Unity 2019.1.0f2）/UGUIOptimization/obj
+/UGUI整体解决方案-优化篇（Unity 2019.1.0f2）/UGUIOptimization/Assembly-CSharp.csproj
+/UGUI整体解决方案-优化篇（Unity 2019.1.0f2）/UGUIOptimization/Assembly-CSharp-Editor.csproj
+/UGUI整体解决方案-优化篇（Unity 2019.1.0f2）/UGUIOptimization/Assembly-CSharp-Editor-firstpass.csproj
+/UGUI整体解决方案-优化篇（Unity 2019.1.0f2）/UGUIOptimization/Assembly-CSharp-firstpass.csproj
+/UGUI整体解决方案-优化篇（Unity 2019.1.0f2）/UGUIOptimization/UGUIOptimization.sln
+/UGUI整体解决方案-优化篇（Unity 2019.1.0f2）/UGUIOptimization/.vs
+/其他
+Library
+Packages
+Temp
